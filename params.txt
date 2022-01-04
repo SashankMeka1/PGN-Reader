@@ -1,0 +1,17 @@
+Event
+Site
+Date
+Round
+White
+Black
+Result
+WhiteTitle
+BlackTitle
+WhiteElo
+BlackElo
+ECO
+Opening
+Variation
+WhiteFideId
+BlackFideId
+EventDate
